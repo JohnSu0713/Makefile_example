@@ -3,7 +3,7 @@
         {
             "name": "Mac",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/2020_0714_makefile/cooldata/inc"
             ],
             "defines": [],
             "macFrameworkPath": [
